@@ -1,0 +1,14 @@
+C:\Users\LENOVO\source\repos\Disconnected Environment\bin\Debug\Disconnected Environment.exe.config
+C:\Users\LENOVO\source\repos\Disconnected Environment\bin\Debug\Disconnected Environment.exe
+C:\Users\LENOVO\source\repos\Disconnected Environment\bin\Debug\Disconnected Environment.pdb
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.SuggestedBindingRedirects.cache
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected_Environment.Data_Mahasiswa.resources
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected_Environment.Data_Prodi.resources
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected_Environment.Data_Status_Mahasiswa.resources
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected_Environment.Form1.resources
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected_Environment.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.exe
+C:\Users\LENOVO\source\repos\Disconnected Environment\obj\Debug\Disconnected Environment.pdb
